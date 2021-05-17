@@ -1,0 +1,9 @@
+I have a list of products to be uploaded to a woocommerce store. These products require product images and product descriptions.
+
+Your job is to scrape a number of websites like Amazon (list to be provided) and find images and descriptions for each product.
+
+You'll upload the images to a Wordpress site ensuring the file names match the product names. You'll then add the Wordpress image URL to the sheet with the corresponding product.
+
+https://www.golfgalaxy.com/
+https://www.golftown.com/
+amazon.com

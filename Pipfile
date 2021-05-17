@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+bs4 = "*"
+selenium = "*"
+xlrd = "*"
+requests = "*"
+xlsxwriter = "*"
+csv = "*"
+selectorlib = "*"
+xvfbwrapper = "*"
+html5lib = "*"
+
+[requires]
+python_version = "3.7"
